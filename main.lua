@@ -14,13 +14,11 @@ function SniperTips_VendorPrice:HandleItem(self, itemName, itemLink, itemRarity,
       priceEach = GetCoinTextureString(itemSellPrice);
       priceAll = GetCoinTextureString(itemSellPrice * count);
 
-      -- Add price (total)
-      self:AddLine("Vendor Sell (All): " .. priceAll,unpack(tipColour));
-
-      -- Add price each
-    
       if (count > 1) then
-        self:AddLine("Vendor Sell (Each): " .. priceEach,unpack(tipColour));
+        self:AddDoubleLine("Vendor Sell (All): ",priceAll,unpack(tipColour));
+        self:AddDoubleLine("Vendor Sell (Each): ",priceEach,unpack(tipColour));
+      else
+        self:AddDoubleLine("Vendor Sell: ",priceAll,unpack(tipColour));
       end
     end
   end
