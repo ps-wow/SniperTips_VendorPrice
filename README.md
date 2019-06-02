@@ -1,5 +1,7 @@
 # SniperTips_VendorPrice
 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/ps-wow/SniperTips_VendorPrice.svg)
+
 A simple lightweight addon that shows the vendor sell price of an item on hover.
 
 ![Screenshot 1 - Flimsy Chain Belt](https://github.com/ps-wow/VendorPrice-Classic/blob/master/screenshots/VendorPrice-1-FlimsyChainBelt.jpg)
