@@ -1,6 +1,6 @@
 # SniperTips_VendorPrice
 
-![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/ps-wow/SniperTips_VendorPrice.svg)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/ps-wow/SniperTips_VendorPrice.svg) [![Curseforge Addon](https://img.shields.io/badge/Curseforge-Addon-orange.svg)](https://www.curseforge.com/wow/addons/snipertips)
 
 A simple lightweight addon that shows the vendor sell price of an item on hover.
 
