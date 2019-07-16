@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v2.0.0] - 2019-07-16
+### Changed
+ - Use v2.0 of SniperTips library
+
 ## [v1.0.3] - 2019-06-24
 ### Changed
  - Embed required libraries.

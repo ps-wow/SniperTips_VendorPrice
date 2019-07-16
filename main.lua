@@ -1,6 +1,6 @@
-local SniperTips_VendorPrice = LibStub("AceAddon-3.0"):NewAddon('SniperTips_VendorPrice');
+local SniperTips_VendorPrice = LibStub("AceAddon-3.0"):NewAddon("SniperTips_VendorPrice");
 
-local LibTooltip = LibStub("SniperTips-1.1");
+local LibTooltip = LibStub("SniperTips-2.0");
 
 local tipColour = { 0.2, 0.6, 1 }
 
